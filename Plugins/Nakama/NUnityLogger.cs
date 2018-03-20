@@ -15,6 +15,7 @@
  */
 
 using System;
+using Godot;
 //using UnityEngine;
 
 namespace Nakama
@@ -24,12 +25,12 @@ namespace Nakama
     {
         public void Trace(object message)
         {
-            Console.WriteLine(message);
+            GD.Print(message);
         }
 
         public void Trace(object message, Exception exception)
         {
-            Console.WriteLine(message);
+            GD.Print(message);
         }
 
         public void TraceIf(bool condition, object message)
@@ -44,7 +45,7 @@ namespace Nakama
 
         public void TraceFormat(string format, params object[] args)
         {
-            Console.WriteLine(format, args);
+            GD.Print(format, args);
         }
 
         public void TraceFormatIf(bool condition, string format, params object[] args)
@@ -54,77 +55,77 @@ namespace Nakama
 
         public void Debug(object message)
         {
-            Console.WriteLine(message);
+            GD.Print(message);
         }
 
         public void Debug(object message, Exception exception)
         {
-            Console.WriteLine(message);
+            GD.Print(message);
         }
 
         public void DebugFormat(string format, params object[] args)
         {
-            Console.WriteLine(format, args);
+            GD.Print(format, args);
         }
 
         public void Info(object message)
         {
-            Console.WriteLine(message);
+            GD.Print(message);
         }
 
         public void Info(object message, Exception exception)
         {
-            Console.WriteLine(message);
+            GD.Print(message);
         }
 
         public void InfoFormat(string format, params object[] args)
         {
-            Console.WriteLine(format, args);
+            GD.Print(format, args);
         }
 
         public void Warn(object message)
         {
-            Console.WriteLine("WARNING - " + message);
+            GD.Print("WARNING - " + message);
         }
 
         public void Warn(object message, Exception exception)
         {
-            Console.WriteLine("WARNING - " + message);
+            GD.Print("WARNING - " + message);
         }
 
         public void WarnFormat(string format, params object[] args)
         {
-           Console.WriteLine(format, args);
+           GD.Print(format, args);
         }
 
         public void Error(object message)
         {
-            Console.WriteLine(message);
+            GD.Print(message);
         }
 
         public void Error(object message, Exception exception)
         {
-            Console.WriteLine(message);
+            GD.Print(message);
         }
 
         public void ErrorFormat(string format, params object[] args)
         {
-            Console.WriteLine(format, args);
+            GD.Print(format, args);
         }
 
         public void Fatal(object message)
         {
-            Console.WriteLine(message);
+            GD.Print(message);
         }
 
         public void Fatal(object message, Exception exception)
         {
-            Console.WriteLine(message);
+            GD.Print(message);
         }
 
         public void FatalFormat(string format, params object[] args)
         {
-            Console.WriteLine(format, args);
+            GD.Print(format, args);
         }
     }
 }
