@@ -1,0 +1,19 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nakama.Godot-2.0", "Nakama.Godot-2.0.csproj", "{FB11B8B8-976D-4B39-A81C-12FD0AD8F7ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+	Debug|Any CPU = Debug|Any CPU
+	Release|Any CPU = Release|Any CPU
+	Tools|Any CPU = Tools|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB11B8B8-976D-4B39-A81C-12FD0AD8F7ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB11B8B8-976D-4B39-A81C-12FD0AD8F7ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB11B8B8-976D-4B39-A81C-12FD0AD8F7ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB11B8B8-976D-4B39-A81C-12FD0AD8F7ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB11B8B8-976D-4B39-A81C-12FD0AD8F7ED}.Tools|Any CPU.ActiveCfg = Tools|Any CPU
+		{FB11B8B8-976D-4B39-A81C-12FD0AD8F7ED}.Tools|Any CPU.Build.0 = Tools|Any CPU
+	EndGlobalSection
+EndGlobal

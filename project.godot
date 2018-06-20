@@ -10,7 +10,8 @@ config_version=3
 
 [application]
 
-config/name="Nakama.Godot"
+config/name="Nakama.Godot-2.0"
+run/main_scene="res://Main.tscn"
 config/icon="res://icon.png"
 
 [rendering]

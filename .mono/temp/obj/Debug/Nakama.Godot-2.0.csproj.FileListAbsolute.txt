@@ -1,0 +1,6 @@
+C:\Users\ricky.mann\Documents\Nakama.Godot-2.0\.mono\temp\bin\Debug\Nakama.Godot-2.0.dll
+C:\Users\ricky.mann\Documents\Nakama.Godot-2.0\.mono\temp\bin\Debug\Nakama.Godot-2.0.pdb
+C:\Users\ricky.mann\Documents\Nakama.Godot-2.0\.mono\temp\obj\Debug\Nakama.Godot-2.0.csprojResolveAssemblyReference.cache
+C:\Users\ricky.mann\Documents\Nakama.Godot-2.0\.mono\temp\obj\Debug\Nakama.Godot-2.0.dll
+C:\Users\ricky.mann\Documents\Nakama.Godot-2.0\.mono\temp\obj\Debug\Nakama.Godot-2.0.pdb
+C:\Users\ricky.mann\Documents\Nakama.Godot-2.0\.mono\temp\bin\Debug\deniszykov.WebSocketListener.dll

@@ -560,16 +560,6 @@
             Remove a custom type added by [method EditorPlugin.add_custom_type]
             </summary>
         </member>
-        <member name="M:Godot.EditorPlugin.AddAutoloadSingleton(System.String,System.String)">
-            <summary>
-            Add a script at [code]path[/code] to the Autoload list as [code]name[/code].
-            </summary>
-        </member>
-        <member name="M:Godot.EditorPlugin.RemoveAutoloadSingleton(System.String)">
-            <summary>
-            Remove an Autoload [code]name[/code] from the list.
-            </summary>
-        </member>
         <member name="M:Godot.EditorPlugin.UpdateOverlays">
             <summary>
             </summary>
@@ -966,6 +956,16 @@
         </member>
         <member name="M:Godot.ScriptEditor.OpenScriptCreateDialog(System.String,System.String)">
             <summary>
+            </summary>
+        </member>
+        <member name="M:Godot.VisualScriptEditor.AddCustomNode(System.String,System.String,Godot.Script)">
+            <summary>
+            Add a custom Visual Script node to the editor. It'll be placed under "Custom Nodes" with the [code]category[/code] as the parameter.
+            </summary>
+        </member>
+        <member name="M:Godot.VisualScriptEditor.RemoveCustomNode(System.String,System.String)">
+            <summary>
+            Remove a custom Visual Script node from the editor. Custom nodes already placed on scripts won't be removed.
             </summary>
         </member>
     </members>

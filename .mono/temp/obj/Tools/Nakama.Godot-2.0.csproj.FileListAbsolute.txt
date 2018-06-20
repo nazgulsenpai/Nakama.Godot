@@ -1,0 +1,15 @@
+C:\Users\ricky.mann\Documents\Nakama.Godot-2.0\.mono\temp\bin\Tools\Nakama.Godot-2.0.dll
+C:\Users\ricky.mann\Documents\Nakama.Godot-2.0\.mono\temp\bin\Tools\Nakama.Godot-2.0.pdb
+C:\Users\ricky.mann\Documents\Nakama.Godot-2.0\.mono\temp\obj\Tools\Nakama.Godot-2.0.csprojResolveAssemblyReference.cache
+C:\Users\ricky.mann\Documents\Nakama.Godot-2.0\.mono\temp\obj\Tools\Nakama.Godot-2.0.csproj.CoreCompileInputs.cache
+C:\Users\ricky.mann\Documents\Nakama.Godot-2.0\.mono\temp\obj\Tools\Nakama.Godot-2.0.dll
+C:\Users\ricky.mann\Documents\Nakama.Godot-2.0\.mono\temp\obj\Tools\Nakama.Godot-2.0.pdb
+C:\Users\ricky.mann\Documents\Nakama.Godot-2.0\.mono\temp\bin\Tools\deniszykov.WebSocketListener.dll
+C:\Users\ricky.mann\Documents\Nakama.Godot-2.0\.mono\temp\bin\Tools\Mono.Security.dll
+C:\Users\ricky.mann\Documents\Nakama.Godot-2.0\.mono\temp\bin\Tools\System.Configuration.dll
+C:\Users\ricky.mann\Documents\Nakama.Godot-2.0\.mono\temp\bin\Tools\System.Xml.dll
+C:\Users\ricky.mann\Documents\Nakama.Godot-2.0\.mono\temp\bin\Tools\System.ServiceModel.Internals.dll
+C:\Users\ricky.mann\Documents\Nakama.Godot-2.0\.mono\temp\bin\Tools\Mono.Posix.dll
+C:\Users\ricky.mann\Documents\Nakama.Godot-2.0\.mono\temp\bin\Tools\System.Security.dll
+C:\Users\ricky.mann\Documents\Nakama.Godot-2.0\.mono\temp\bin\Tools\System.Numerics.dll
+C:\Users\ricky.mann\Documents\Nakama.Godot-2.0\.mono\temp\obj\Tools\Nakama.Godot-2.0.csproj.CopyComplete
